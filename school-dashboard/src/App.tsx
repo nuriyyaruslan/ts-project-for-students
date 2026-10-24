@@ -1,14 +1,24 @@
 import './App.css'
+import Objects from './components/lessons/Objects';
+// import Tupels from './components/lessons/Tupels';
+// import Arrays from './components/lessons/Arrays';
+// import SpecialTypes from './components/lessons/SpecialTypes';
+// import ExplicitInference from './components/lessons/ExplicitInference';
+// import SimpleTypes from './components/lessons/SimpleTypes';
 
 function App() {
   return (
     <>
      <section>
-      <h1>Hello,we are learning typescript!</h1>
-      <h1>Hello,we are learning typescript!</h1>
+      {/* <SimpleTypes/> */}
+      {/* <ExplicitInference/> */}
+      {/* <SpecialTypes/> */}
+      {/* <Arrays/> */}
+      {/* <Tupels/> */}
+      <Objects/>
      </section>
     </>
   )
 }
 
-export default App
+export default App;
