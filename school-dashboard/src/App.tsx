@@ -5,6 +5,7 @@ function App() {
     <>
      <section>
       <h1>Hello,we are learning typescript!</h1>
+      <h1>Hello,we are learning typescript!</h1>
      </section>
     </>
   )
